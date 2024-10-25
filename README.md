@@ -1,6 +1,6 @@
-# flutter_application_1
+# Flutter app project
 
-A new Flutter project.
+A new Flutter project about Mahasiswa Information.
 
 ## Getting Started
 
